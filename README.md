@@ -11,7 +11,6 @@
 ###  Technologies and tools:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="68">](https://www.python.org/)
 [<img src="https://user-images.githubusercontent.com/125588671/270274240-0b2a1a7a-58a1-4d02-85eb-f0490384cd7f.png" height="60">](https://developer.chrome.com/docs/devtools/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="68">](https://www.python.org/) 
 [<img src="https://user-images.githubusercontent.com/125588671/270273375-4f4ca48b-1302-431a-a02e-75ce20173789.svg" height="60">](https://www.jetbrains.com/ru-ru/pycharm/)
 [<img src="https://user-images.githubusercontent.com/125588671/270273298-7df7439a-85ec-401b-b4e4-10dd87113ead.svg" height="60">](https://code.visualstudio.com/)
 [<img src="https://user-images.githubusercontent.com/125588671/270274245-3a66a88f-2788-4cab-a0b8-b89863932bd3.png" height="60">](https://docs.pytest.org/en/7.4.x//)
